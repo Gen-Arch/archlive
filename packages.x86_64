@@ -55,11 +55,14 @@ sudo
 tcpdump
 testdisk
 usb_modeswitch
-vim-minimal
+git
+vim
 vpnc
 wget
 wireless-regdb
 wireless_tools
-wpa_actiond
+wpa_supplicant
+iw
 wvdial
 xl2tpd
+archzfs-linux
